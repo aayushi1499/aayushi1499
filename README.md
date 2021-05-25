@@ -1,7 +1,7 @@
 ### Hey folks 👋, I'm Aayushi.
 
-# My name is Aayushi Bansal and pursuing my bachelor's in Computer Science. I'm from Chandigarh and currently working on machine learning algoithms.
-<br><br>
+#### My name is Aayushi Bansal and pursuing my bachelor's in Computer Science. I'm from Chandigarh and currently working on machine learning algoithms.
+
   <a href="https://mail.google.com/ ">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
