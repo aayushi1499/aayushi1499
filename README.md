@@ -1,6 +1,7 @@
 ### Hey folks 👋, I'm Aayushi.
 
-
+# My name is Aayushi Bansal and pursuing my bachelor's in Computer Science. I'm from Chandigarh and currently working on machine learning algoithms.
+<br><br>
   <a href="https://mail.google.com/ ">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
@@ -11,7 +12,7 @@
 
 ## 🔧 Technologies Stack
 
-<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
 <img align="left" alt="Python3" width="50px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="CPP" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
