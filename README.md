@@ -1,8 +1,8 @@
 ### Hey folks 👋, I'm Aayushi.
 
+You can find me on
 
-
-You can find me on  <a href="https://mail.google.com/ ">
+  <a href="https://mail.google.com/ ">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/aayushi14/ ">
@@ -18,6 +18,7 @@ You can find me on  <a href="https://mail.google.com/ ">
 <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
+<br><br>
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/aayushi1499/aayushi1499">
