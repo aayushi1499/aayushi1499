@@ -11,20 +11,21 @@
 ## Programming Languages
 
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
-|--|
+|--|--|
 
 ## Libraries and Frameworks
 
 <img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">
-|--|--|
+|--|--|--|--|
 ## Databases
 
 <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
+|--|
 
 ## Tools
 
 <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
-
+|--|--|--|--|
 <br>
 ## &#x1f4c8; GitHub Stats
 
