@@ -1,6 +1,7 @@
 ### Hey folks 👋, I'm Aayushi.
 
-#### My name is Aayushi Bansal and pursuing my bachelor's in Computer Science. I'm from Chandigarh and currently working on machine learning algoithms.
+#### Worked as a Software Engineer III at Walmart in the real-time platform team. Responsible for designing, developing, testing, and maintaining backend systems using Java and Kafka to support multiple clients. Built secure APIs to fetch real-time customer data from external systems, and received 2 Bravo awards for impactful contributions. Regularly handled production alerts and deployment issues, ensuring smooth operations. Worked closely with cross-functional teams to gather requirements and deliver business-focused solutions. Strong at debugging, root cause analysis, and fixing application-level issues efficiently.
+
 <br />
 
   <a href="https://mail.google.com/ ">
